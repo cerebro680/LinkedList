@@ -1,0 +1,14 @@
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\LinkedLists.csprojAssemblyReference.cache
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+d:\profiles\rc5004\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\obj\Debug\LinkedLists.csprojAssemblyReference.cache
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Z:\IGMProfile\Documents\LinkedListHW\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
